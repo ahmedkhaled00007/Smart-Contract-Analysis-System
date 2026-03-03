@@ -62,6 +62,9 @@ python main.py ui
 - **Step 1:** Go to the "Ingestion" tab and upload your contract documents (PDF, DOCX, TXT). Click "Ingest & Save Index".
 - **Step 2:** Go to the "Chat" tab and ask questions about your documents!
 
+### YOU CAN TEST IT VIA PDF IN THE TEST FOLDER 
+
+
 #### 2. Running an API Server
 If you want to integrate this system into another application, you can start the REST API:
 ```bash
